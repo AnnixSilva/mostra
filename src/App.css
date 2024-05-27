@@ -2,37 +2,97 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
 
 .App-header {
-  background-color: #282c34;
+  background-color: #ffffff;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(107, 150, 72);
 }
 
-.App-link {
-  color: #61dafb;
+.banner {
+  position: relative;
+  height: auto;
+  width: 300%;
+  background-color: #FBFFF9;
+
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
+.profile{
+  position: relative;
+  top: -568px;
+  left: 1740px;
+  z-index: 3;
+}
+
+.eco{
+  position: relative;
+  width: 211px;
+  height: 64px;
+  right: 25px;
+
+}
+
+.navbar-nav .nav-link {
+  font-family: 'Verdana';
+  font-size: 20px; 
+  position: relative;
+  right: 15px;
+  margin-right: 33px;
+  color: #FBFFF9;
+  cursor: pointer;
+  transition: 0.3s;
+  font-weight: bold;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #bbf584;
+}
+
+.dropdown-menu {
+  border: none;
+}
+
+.bg-custom-color {
+  background-color: #5A9D71;
+  
+}
+
+.borda{
+  background-color: rgb(46, 104, 20);
+  color: rgb(46, 104, 20);
+  height: 120px;
+  margin-top: 22px
+}
+
+.local{
+  color: #25291F;
+
+}
+
+.nav-user {
+  position: absolute; /* Use position: absolute em vez de position: relative para posicionar em relação ao contêiner pai */
+  right: 29px; /* Posicione o ícone 10px da borda direita do contêiner pai */
+  top: 22px; /* Posicione o ícone 10px da borda superior do contêiner pai */
+}
+
+.homeLinha{
+  position: relative;
+  background-color: rgb(59, 170, 7);
+  padding: 40px;
+  border: none;
+}
+@media (max-width: 300px) {
+  .Navbar {
+    position: relative;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+    background-color: #121212;
   }
 }
+

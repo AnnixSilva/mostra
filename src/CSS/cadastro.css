@@ -1,0 +1,91 @@
+.form {
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 720px;
+    margin-bottom: 99px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    margin-top: 148px;
+    max-width: 1000px;
+    bottom: 40px;
+    padding: 20px;
+    background-color: #5a9d715e;
+    border-radius: 15px;
+    white-space: nowrap; 
+  }
+  
+  .form-item-cad {
+    display: flex;
+    position: relative;
+    top: 15px;
+  }
+  
+  .form-item-cad {
+    font-weight: bold;
+    margin-top: 35px;
+    display: flex;
+  }
+
+  
+  .form-input,.form-input-date {
+    width: 100%;
+    padding: 20px;
+    border: 1px solid white;
+    border-radius: 5px;
+    height: 45px;
+  }
+  
+  .form-input{
+    margin-top: -30px;
+  }
+  
+.form-input-date{
+    position: relative;
+    right: 152px;
+    border: 1px solid white;
+}
+
+  .form-input,
+  .form-select,
+  .form-button {
+    margin-bottom: 15px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .form-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  .form-button:hover {
+    background-color: #0056b3;
+  }
+
+  .leandro{
+    position: relative;
+    bottom: 28px;
+    left: 2px;
+  }
+  
+  .form-select{
+    position: relative;
+    display: flex;
+    height: 45px;
+    margin-top: 30px;
+    right: 55px;
+    bottom: 8px;
+    border: 1px solid white;
+  }
+
+  .textGEN{
+    position: relative;
+    right: 10px;
+    left: 3px;
+    top: -6px;
+  }

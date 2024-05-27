@@ -1,0 +1,440 @@
+.Nome{
+    position: relative;
+    color: #4E6137;
+    z-index: 100;
+    top: 27px;
+    font-family: "Verdana";
+    font-size: 75px;
+    font-weight: bold;
+}
+
+.linhaLoja{
+    position: relative;
+    padding: 1px;
+    background-color: #4E6137;
+    max-width: 40%;
+    left: 589px;
+    top: 30px;
+    box-shadow: 0 4px 8px rgba(109, 218, 8, 0.5);
+}
+
+.banner{
+    position: relative;
+    width: 70%;
+    height: 70%;
+    top: 79px;
+    background-color: white;
+}
+
+.baner{
+    position: relative;
+    top: 100px;
+}
+
+.baner3{
+    position: relative;
+    top: 120px;
+}
+
+.preco {
+    position: relative;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.texto{
+    gap: 90px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    top: -760px;
+    left: 190px;
+    font-size: 150px;
+    white-space: nowrap;
+}
+
+.ajeitar-2{
+    position: relative;
+    left: 20px;
+}
+
+.quadrado{
+    position: relative;
+    padding: 10px;
+    left: 74px;
+    height: 40px;
+    border: 2px solid #0B2447;
+    border-top: none;
+    border-bottom: none;
+    font-size: 16px;
+    background: transparent;
+    outline: none;
+    box-shadow: 7px 7px 0px 0px #0B2447;
+    transition: all 0.5s;
+}
+
+.quadrado2{
+    position: relative;
+    padding: 10px;
+    right: -44px;
+    height: 40px;
+    border: 2px solid #1b0b47;
+    border-top: none;
+    border-bottom: none;
+    font-size: 16px;
+    background: transparent;
+    outline: none;
+    box-shadow: 7px 7px 0px 0px #0B2447;
+    transition: all 0.5s;
+}
+
+.quadrado3{
+    position: relative;
+    padding: 10px;
+    left: 34px;
+    height: 40px;
+    border: 2px solid #0B2447;
+    border-top: none;
+    border-bottom: none;
+    font-size: 16px;
+    background: transparent;
+    outline: none;
+    box-shadow: 7px 7px 0px 0px #0B2447;
+    transition: all 0.5s;
+}
+  
+.quadrado4{
+    position: relative;
+    padding: 10px;
+    right: -20px;
+    height: 40px;
+    border: 2px solid #0B2447;
+    border-top: none;
+    border-bottom: none;
+    font-size: 16px;
+    background: transparent;
+    outline: none;
+    box-shadow: 7px 7px 0px 0px #0B2447;
+    transition: all 0.5s;
+}
+  
+
+.fundoPrec {
+    position: relative;
+    padding: 30px;
+    width: 200px;
+    height: 50px;
+    left: 409px;
+    top: -70px;
+    border-radius: 15px;
+    background: linear-gradient(45deg, #000000, #000000);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 10);
+    transition: box-shadow 0.3s ease;
+}
+
+.fundoPrec:hover{
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+}
+
+.fundoPrec2 {
+    position: relative;
+    padding: 30px;
+    width: 200px;
+    height: 50px;
+    left: 760px;
+    top: -145px;
+    border-radius: 15px;
+    background: linear-gradient(45deg, #000000, #000000);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 10);
+    transition: box-shadow 0.3s ease;
+}
+
+.fundoPrec2:hover{
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+}
+
+.fundoPrec3 {
+    position: relative;
+    padding: 30px;
+    width: 200px;
+    height: 50px;
+    left: 1120px;
+    top: -222px;
+    border-radius: 15px;
+    background: linear-gradient(45deg, #000000, #000000);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 10);
+    transition: box-shadow 0.3s ease;
+}
+
+.fundoPrec3:hover{
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+}
+
+.fundoPrec4 {
+    position: relative;
+    padding: 30px;
+    width: 200px;
+    height: 50px;
+    left: 1454px;
+    top: -299px;
+    border-radius: 15px;
+    background: linear-gradient(45deg, #000000, #000000);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 10);
+    transition: box-shadow 0.3s ease;
+}
+
+.fundoPrec4:hover{
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+}
+
+.ajeitar{
+    position: relative;
+    right: 100px;
+}
+
+.money{
+    position: relative;
+    right: 620px;
+    top: -370px;
+    color: green;
+}
+
+.money2{
+    position: relative;
+    right: 275px;
+    top: -490px;
+    color: green;
+}
+
+.money3{
+    position: relative;
+    top: -613px;
+    left: 90px;
+    color: green;
+}
+
+.money4{
+    position: relative;
+    top: -735px;
+    left: 420px;
+    color: green;
+}
+
+.quinze{
+    position: relative;
+    top: -432px;
+    right: 558px;
+    color: white;
+}
+
+.doze{
+    position: relative;
+    top: -551px;
+    right: 210px;
+    color: white;
+}
+
+.vinte{
+    position: relative;
+    top: -674px;
+    left: 155px;
+    color: white;
+}
+
+.cinco{
+    position: relative;
+    top: -796px;
+    left: 478px;
+    color: white;
+}
+
+.Fundo2{
+    position: relative;
+    top: -600px;
+    left: 10px;
+}
+
+.images{
+    position: relative;
+    display: flex;
+    float: left;
+    flex-direction: row;
+    gap: 35px;
+    top: -1090px;
+    left: 240px;
+}
+
+.quadrado5{
+    position: relative;
+    padding: 10px;
+    left: 133px ;
+    top: -240px;
+    height: 40px;
+    border: 2px solid #0B2447;
+    border-top: none;
+    border-bottom: none;
+    font-size: 16px;
+    background: transparent;
+    outline: none;
+    box-shadow: 7px 7px 0px 0px #0B2447;
+    transition: all 0.5s;
+}
+
+.quadrado6{
+    position: relative;
+    padding: 10px;
+    right: -170px;
+    top: -240px;
+    height: 40px;
+    border: 2px solid #0B2447;
+    border-top: none;
+    border-bottom: none;
+    font-size: 16px;
+    background: transparent;
+    outline: none;
+    box-shadow: 7px 7px 0px 0px #0B2447;
+    transition: all 0.5s;
+    
+}
+
+.quadrado7{
+    position: relative;
+    padding: 10px;
+    right: -145px;
+    top: -240px;
+    height: 40px;
+    border: 2px solid #0B2447;
+    border-top: none;
+    border-bottom: none;
+    font-size: 16px;
+    background: transparent;
+    outline: none;
+    box-shadow: 7px 7px 0px 0px #0B2447;
+    transition: all 0.5s;
+    
+}
+
+.quadrado8{
+    position: relative;
+    padding: 10px;
+    right: -125px;
+    top: -245px;
+    height: 40px;
+    border: 2px solid #0B2447;
+    border-top: none;
+    border-bottom: none;
+    font-size: 16px;
+    background: transparent;
+    outline: none;
+    box-shadow: 7px 7px 0px 0px #0B2447;
+    transition: all 0.5s;
+    
+}
+
+.money5{
+    position: relative;
+    left: -599px;
+    top: -1127px;
+    color: green;
+}
+.cinco2{
+    position: relative;
+    top: -1188px;
+    right: 545px;
+    color: white;
+}
+
+.money6{
+    position: relative;
+    right: 250px;
+    top: -1247px;
+    color: green;
+}
+
+.cinco3{
+    position: relative;
+    top: -1308px;
+    right: 199px;
+    color: #fff;
+}
+.money7{
+    position: relative;
+    top: -1370px;
+    left: 95px;
+    color: green;
+}
+
+.dez{
+    position: relative;
+    top: -1432px;
+    right: -160px;
+    color: #fff;
+}
+
+
+.money8{
+    position: relative;
+    top: -1493px;
+    left: 440px;
+    color: green;
+}
+
+.sete{
+    position: relative;
+    top: -1555px;
+    right: -490px;
+    color: #fff;
+}
+.fundoPrec5 {
+    position: relative;
+    padding: 30px;
+    width: 200px;
+    height: 50px;
+    right: 930px;
+    top: -790px;
+    border-radius: 15px;
+    background: linear-gradient(45deg, #000000, #000000);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 10);
+    transition: box-shadow 0.3s ease;
+}
+.fundoPrec6 {
+    position: relative;
+    padding: 30px;
+    width: 200px;
+    height: 50px;
+    left: -600px;
+    top: -866px;
+    border-radius: 15px;
+    background: linear-gradient(45deg, #000000, #000000);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 10);
+    transition: box-shadow 0.3s ease;
+}
+.fundoPrec7 {
+    position: relative;
+    padding: 30px;
+    width: 200px;
+    height: 50px;
+    left: -250px;
+    top: -944px;
+    border-radius: 15px;
+    background: linear-gradient(45deg, #000000, #000000);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 10);
+    transition: box-shadow 0.3s ease;
+}
+.fundoPrec8 {
+    position: relative;
+    padding: 30px;
+    width: 200px;
+    height: 50px;
+    left: 100px;
+    top: -1023px;
+    border-radius: 15px;
+    background: linear-gradient(45deg, #000000, #000000);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 10);
+    transition: box-shadow 0.3s ease;
+}
+
+
+

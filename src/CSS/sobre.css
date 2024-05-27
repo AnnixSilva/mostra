@@ -1,0 +1,65 @@
+.Sob {
+    position: relative;
+    font-family: "Arial";
+    left: 10px;
+    margin-top: 10%;
+    text-align: left;
+    font-size: 1.5rem; 
+    width: 80%; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Sob2{
+        position: relative;
+        font-family: "Arial";
+        left: 50px;
+        top: -127px;
+        margin-top: 10%;
+        text-align: left;
+        font-size: 1.5rem; 
+        width: 80%; 
+        margin-left: auto;
+        margin-right: auto;
+}
+
+.Sobre{
+    position: relative;
+    color: #4E6137;
+    z-index: 100;
+    top: 27px;
+    font-family: "Verdana";
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.EcoGreen {
+    position: relative;
+    margin-top: 25%; 
+    right: 37px;
+    width: 20%; 
+    height: auto; 
+    margin-left: -28%;
+    margin-right: auto;
+}
+
+.lixo, .lixo2 {
+    position: relative;
+    margin-top: -15%;
+    right: 37px; 
+    width: 15%; 
+    height: auto; 
+    margin-left: auto;
+    margin-right: 2%;
+}
+
+.linhaSOBRE {
+    position: relative;
+    background-color: rgb(19, 88, 19);
+    padding: 1px;
+    margin-top: -10%; 
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 40%; 
+    box-shadow: 0 4px 8px rgba(109, 218, 8, 0.5);
+}
